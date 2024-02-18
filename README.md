@@ -9,7 +9,11 @@ Track Donate es mas que un sistema, es una herramienta dedica especificamente pa
 
 ¿Que hace Track Donate?
 
-Este sitema, permite agregar y visualizar informacion vital sobre pacientes, enfocandose en la optimizacion y compatibilidad para garantizar que cada donacion cuente como debe ser.
+Este sistema, permite agregar y visualizar informacion vital sobre pacientes, enfocandose en la optimizacion y compatibilidad para garantizar que cada donacion cuente como debe ser.
+
+¿Que lenguaje de programacion fue utilizado?
+
+Python fue el lenguaje de programacion escogido, ademas de la libreria Numpy.
 
 
 ¿Cuales son sus funciones destacadas?
